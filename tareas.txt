@@ -1,6 +1,5 @@
-notepad tareas.txt
 ir a clase
 planchar
 estudiar
 hacer deporte
-dir
+cocinar
